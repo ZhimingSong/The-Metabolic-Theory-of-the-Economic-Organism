@@ -1,0 +1,468 @@
+Part I: Viewing the Economy Through a Different Lens
+
+The Metabolic Theory of the Economic Organism：Chapter 2: What Is Value? Negentropy, Order, and the Driving Force of Economic Life
+
+Abstract
+
+This paper is Chapter 2 of the book The Metabolic Theory of the Economic Organism: From the Mechanistic Paradigm to the Living Systems. The complete manuscript of the book is available on SSRN (DOI: 10.2139/ssrn.6456938) and OSF Preprints (DOI: 10.17605/OSF.IO/KPXNY).
+
+This chapter establishes the value-theoretical foundation of the Economic Organism–Metabolism Theory (EOMT) by redefining economic value as negentropy—the capacity of the economic system to generate and maintain ordered structure against entropic decay.
+
+It begins by identifying a shared limitation of existing value theories: while labor, utility, equilibrium, and innovation theories each capture partial mechanisms of value generation, they remain confined to social or behavioral levels and do not address the underlying physical process of value formation.
+
+The chapter then advances the central ontological claim that value is negentropy, understood as a functional isomorphism rather than a metaphor. It clarifies this claim by distinguishing value existence from value realization, rejecting locally entropy-reducing but systemically destructive “pseudo-values,” and emphasizing the multi-layered nature of negentropy across material, informational, and cultural-cognitive dimensions.
+
+A general value expression, Vt = f(Et, It, Ct), is proposed, where material-energy inputs, informational inputs, and circulatory efficiency jointly determine value creation. The framework leaves the functional form open, reinterprets the Solow residual as informational contribution, and identifies circulatory efficiency as a critical but underexplored dimension. Empirical patterns such as the post-2008 liquidity trap, the Soviet efficiency paradox, and stagflation are reinterpreted as cases of circulatory constraint.
+
+Building on this foundation, the chapter develops a five-category typology of value—material, informational, meaning, institutional, and ecological—corresponding to different levels at which negentropy is established. It concludes by reformulating the law of value: prices function as dynamic metabolic signals rather than equilibrium anchors, and economic stability is better understood as homeostasis. This framework provides the conceptual bridge to subsequent analysis of crisis as metabolic imbalance and systemic adjustment.
+
+Keywords: value as negentropy; thermodynamics of value; metabolic value equation; informational value; circulatory efficiency; Solow residual; metabolic homeostasis; law of value
+
+
+The central question of this chapter is the following: if the economy is an organism, what is the “energy” that drives its operation?
+
+Value—one of the oldest and most unresolved concepts in economics—will, under the life paradigm, receive a new definition grounded in rigorous argumentation. This definition does not avoid the real disagreements it has with existing theories, nor does it evade the philosophical challenges it must confront. Its aim is to become a defended ontological position, rather than a merely rhetorical declaration.
+
+2.1 The Dilemma of Traditional Value Theory: A Fundamentally Unresolved Question
+
+Throughout more than two centuries of economic thought, few questions have troubled theorists more persistently than “Where does value come from?”
+
+The difficulty of resolving this question does not stem from a shortage of intelligent inquiry. Rather, it arises because most answers have remained at the same analytical level: they describe the social manifestations of value, while largely avoiding a deeper inquiry—what physical process underlies the creation of value?
+
+2.1.1 Four Paths, Four Well-Grounded Limitations
+
+The Labor Theory of Value
+
+Classical political economy—particularly in the tradition of David Ricardo and Karl Marx—located the origin of value in labor. The value of a commodity is determined by the “socially necessary labor time” required for its production. Within this theoretical framework, labor includes not only physical work but also intellectual labor; different types of labor can be reduced through social exchange to a common unit of abstract labor time, thereby forming a general measure of value.
+
+In the early stages of industrialization, this theory possessed considerable explanatory power. When the production of most commodities still depended heavily on the cooperation between human labor and machinery, labor time indeed functioned as a relatively reliable proxy for tracing the origin of value. Describing the formation of value through labor time therefore possessed substantial empirical plausibility within the production structure of that historical period.
+
+However, as the structure of the economy gradually shifted toward complex systems centered on information, institutions, and network structures, problems began to emerge. In today's economic activities, a single line of program code may operate a platform system worth hundreds of millions of dollars; a brand narrative may barely alter the material structure of a product yet significantly transform its market value; a patent may continue to generate returns for years after its invention without requiring continuous new labor input.
+
+These phenomena do not simply constitute counterexamples to “intellectual labor,” because their key issue does not lie in the form of labor itself, but in the mechanism of value creation.
+
+Faced with the problem of machines replacing labor, Capital offered an internal response: machines do not create value; they merely transfer the labor value embodied within them into the commodities they produce. The long-term tendency of the rate of profit to fall, in this view, is driven precisely by the substitution of capital for labor. This explanation is internally coherent within Marx's theoretical system and captures certain structural contradictions inherent in capitalist production.
+
+Yet from the perspective of the broader economic system, this explanation simultaneously reveals a fundamental limitation of the labor theory of value: it treats labor time as the ultimate measure of value creation without explaining why labor itself is capable of creating value in the first place. In other words, the labor theory of value successfully identifies an important mechanism of value generation but does not pursue the deeper physical foundation underlying that mechanism.
+
+As technological structures, institutional arrangements, information organization, and network effects increasingly become the primary mechanisms generating order within the economic system, the explanatory scope of labor time as the sole measure of value inevitably narrows. Labor remains an important pathway for value generation, but it is no longer the only one. The labor theory of value may therefore be understood as a highly effective analytical tool for the industrial era, yet the challenge it faces arises less from isolated counterexamples than from historical structural transformation itself.
+
+The Utility Theory of Value
+
+Neoclassical economics offers a different path: value does not reside in the commodity itself but in the subjective evaluation of individuals. Utility—the satisfaction that consumers derive from a good or service—is regarded as the ultimate source of value. Scarcity allows this subjective evaluation to be expressed through market exchange, while the interaction of supply and demand determines the final exchange ratio.
+
+When discussing this theory, it is necessary to clarify a common misunderstanding. Standard marginal utility theory does not simply equate value with price. On the contrary, it explicitly distinguishes the two: utility represents the origin of subjective evaluation, whereas price is the marginal expression of that evaluation in the market. Indeed, the entire marginalist revolution—from William Stanley Jevons and Carl Menger to Léon Walras—was motivated by the attempt to explain how utility is translated into price through market mechanisms, thereby resolving the classical political economy problem known as the diamond–water paradox.
+
+For this reason, criticizing utility theory as merely “equating value with price” does not accurately represent the theory itself.
+
+The genuine difficulty of utility theory lies elsewhere: its explanatory framework rests almost entirely on subjective preferences. If value originates solely from individual preferences, it becomes difficult to explain why certain resources or structures—such as a crucial technology, a piece of highly productive land, or a stable and effective institutional arrangement—retain their importance across different historical periods and across societies with differing preferences. These objects appear to possess a relatively stable value foundation that cannot be fully explained by subjective preference alone.
+
+Furthermore, when an entire society forms a highly consistent but ultimately mistaken valuation of a particular asset—as occurs in typical asset bubbles—utility theory lacks an independent reference framework outside of market price signals. The theory can explain how prices are formed, yet it struggles to answer whether those prices deviate from some deeper objective foundation. Consequently, when collective market misjudgments occur, the theory often remains capable only of describing their formation after the fact rather than providing criteria for evaluating them in advance.
+
+In this sense, utility theory successfully reveals one crucial dimension of value: value is indeed expressed through human subjective evaluation. Yet subjective evaluation represents only one aspect of the value structure; it is insufficient to constitute a complete explanation of value creation.
+
+The Equilibrium Price Theory
+
+In modern economic theory, the general equilibrium framework further shifts analytical focus from the origin of value to the structure of prices. Within this theoretical system, the economy is modeled as an exchange system composed of multiple markets operating simultaneously, and prices serve as the central signals coordinating resource allocation. Through the interaction of supply, demand, and budget constraints, a consistent system of relative prices can theoretically be derived.
+
+Technically, this approach is highly sophisticated. From Walras's general equilibrium model to the rigorous mathematical proofs developed by Kenneth J. Arrow and Gérard Debreu, modern equilibrium theory has demonstrated how a price system can achieve consistency and stability in resource allocation under certain conditions. It provides a highly formalized analytical tool for understanding the coordinating mechanisms of markets.
+
+At the same time, however, this theoretical path entails an important shift in orientation: it gradually abandons the direct discussion of the ontology of value. Within equilibrium analysis, the question “what is value?” is no longer treated as a problem requiring an answer. Instead, theoretical attention turns to the question: how does a price system form given certain preferences and resource constraints? In other words, the problem of value is transformed into a purely technical issue of price formation.
+
+From an epistemological perspective, this shift can be interpreted as a deliberate contraction of theoretical scope. By transforming the value problem into a question of price mechanisms, economics avoids complex ontological debates, but it simultaneously loses the ability to distinguish between two different propositions: on the one hand, prices are indeed discovered through market exchange; on the other hand, whether prices accurately reflect some deeper foundation of value is an entirely different question. Equilibrium theory largely merges these two propositions into one, such that the price signal becomes both the object of description and the criterion of judgment.
+
+When systemic deviations emerge between price structures and the real structure of the economy—such as in cases of resource misallocation or financial bubbles—this theoretical structure often struggles to provide an independent evaluative scale. The theory can precisely describe how prices are formed, yet it finds it difficult to determine whether those prices reflect the more fundamental order of the economic system.
+
+Thus, while equilibrium price theory possesses enormous analytical value in explaining market coordination mechanisms, it effectively bypasses a more fundamental question: what deeper foundation of value is reflected in the price system itself?
+
+Schumpeter's Innovation Theory of Value
+
+Beyond the three approaches discussed above, Joseph Schumpeter's theory of innovation represents a tradition that is closest to the line of inquiry pursued in this book, yet it has remained relatively marginal within discussions of value theory. Schumpeter argued that the central driving force of capitalist economies lies in the innovative activities of entrepreneurs. Through “new combinations,” entrepreneurs reorganize existing factors of production in novel ways, thereby disrupting existing equilibrium structures and obtaining temporary supernormal profits. This process he famously described as creative destruction.
+
+Within Schumpeter's analytical framework, the key source of value is no longer the quantity of labor input, nor simply consumers’ subjective utility evaluations. Rather, it lies in the reorganization of production structures. New technological pathways, new product forms, or new organizational arrangements generate new synergies among previously existing factors, thereby producing economic effects that exceed the simple sum of individual inputs. Value here manifests as an increase in productive capacity or economic potential resulting from structural reconfiguration.
+
+This insight resonates structurally with the analytical approach pursued in this book. In a more general sense, what Schumpeter called “new combinations” can be understood as a process of integrating dispersed elements into more complex structures. From a systems perspective, such processes involve a rearrangement of relational structures among elements, enabling the system to realize functions that were previously unattainable. Although Schumpeter himself did not describe this mechanism in the language of thermodynamics or complex systems, the innovative dynamics he identified already implicitly contained a logic of order generation at the structural level.
+
+What this book attempts to advance on the basis of this tradition is to extend this structural mechanism beyond the domain of innovation alone, transforming it into a more general analytical framework: not only innovation, but all activities capable of continuously generating economic value involve some form of structural organization and order generation. In other words, value creation manifests not only as changes in the quantity of resources but also as transformations in the relational structures among economic elements.
+
+From a deeper physical perspective, such processes correspond in certain ways to the mechanisms through which systems maintain and enhance ordered structures through energy transformation. It is precisely in this sense that this book attempts to employ the concept of negative entropy as a more fundamental explanatory framework for value creation.
+
+2.1.2 The Shared Blind Spot: The Physical Process of Value Creation
+
+Despite their differences, the four theoretical paths discussed above—the labor theory of value, the utility theory of value, equilibrium price theory, and innovation theory—share a deeper limitation. Their analyses largely remain confined within the social relationships, behavioral mechanisms, or institutional structures internal to the economic system, while rarely pursuing the more fundamental material–energy–structure foundations that enable these processes to operate continuously.
+
+The labor theory of value asks who creates value; the utility theory asks who experiences value; equilibrium theory attempts to explain how value is coordinated and expressed through prices in markets; and Schumpeter's innovation theory asks what kinds of actions can break existing structures and create new value spaces. All these questions are legitimate and important within economics, and they reveal different social mechanisms of value generation. Yet the analytical reference frame of these theories largely remains within social relations and behavioral structures, seldom extending to the more fundamental conditions that sustain the functioning of the economic system.
+
+If we broaden our perspective slightly to consider life systems themselves, the structure of this problem becomes clearer. A tree transforms sunlight, water, and carbon dioxide into complex organic molecular structures; a cheetah converts the chemical energy stored in its muscles into the mechanical energy required for high-speed movement; a cell maintains precise and stable internal order within a highly random chemical environment. Life persists precisely because systems are able to continuously transform flows of energy and matter from the environment into ordered structures that sustain themselves. As Erwin Schrödinger famously argued in his reflections on life, the persistence of living systems depends on their ability to continuously acquire and utilize negative entropy from their environment.
+
+If the economic system is understood as an organism composed of complex structures organized by human beings, a natural question emerges: does the process referred to as “value creation” in economic systems correspond to some deeper mechanism of structural generation? In other words, when economic activities are abstracted as processes of factor allocation, institutional arrangement, and information organization, do these processes at a deeper level also involve certain forms of structural organization and order formation?
+
+Raising this question does not imply reducing economics to physics, nor does it suggest a return to the old paradigm that viewed the economy as a mechanical device. On the contrary, what the first chapter criticized precisely was the mechanical model that treats economic systems as closed, reversible, and equilibrium-seeking machines. The issue explored here is a different one: if the economic system itself is a complex open system sustained by flows of energy, matter, and information, can value creation also be understood as a process related to structural generation and systemic order?
+
+Within this framework, the remaining sections of this chapter will attempt to draw upon several concepts from the study of life systems and complex systems theory to propose a new interpretive path for the concept of value. This interpretation does not seek to replace economic analyses of institutions, behavior, and market mechanisms. Rather, it aims to provide a more fundamental explanatory layer for these phenomena: namely, the extent to which value creation can be understood as the generation and maintenance of ordered structures within the economic system. The precise meaning of this interpretation, its theoretical foundations, and its boundaries of applicability will be gradually developed in the discussions that follow.
+
+2.2 The Physical Nature of Value: Negative Entropy Rather than Labor or Utility
+
+To understand this ontological claim, it is necessary first to introduce a crucial concept from thermodynamics: entropy and negative entropy.
+
+2.2.1 Entropy: The Directionality of the Universe
+
+The Second Law of Thermodynamics states that in a closed system, entropy—namely the degree of disorder within the system—tends to increase spontaneously. Ice naturally melts, yet melted water does not spontaneously refreeze; a shattered cup does not automatically restore itself; heat always flows spontaneously from a hotter object to a colder one, rather than the reverse. In other words, natural processes possess a clear directionality: in the absence of external intervention, systems tend to move from more ordered states toward more disordered ones.
+
+In this sense, the universe appears to possess a profound “preference”: it is easier for disorder to arise, whereas the maintenance or creation of ordered structures requires continuous energy input.
+
+Yet the existence of life seems to constitute an apparent paradox. In a universe that tends overall toward disorder, living systems are nevertheless capable of maintaining highly complex and stable structures over long periods of time. Within a cell, molecular arrangements remain extraordinarily precise; organisms can preserve highly organized structures for decades; ecosystems can even develop intricate networks of energy and material circulation.
+
+This paradox was largely clarified by the physicist Erwin Schrödinger in his 1944 work What Is Life? Schrödinger argued that living systems are able to maintain ordered structures because they are not closed systems but open systems: they continuously absorb energy and matter from their environment while releasing waste heat and waste materials back into it. Through this ongoing exchange process, living organisms are able to establish and maintain relatively high levels of order internally while exporting greater amounts of entropy to the surrounding environment.
+
+Thus, life does not violate the Second Law of Thermodynamics. The total entropy of the universe continues to increase; what living systems accomplish is merely the maintenance of a relatively stable “island of order” within a local region, at the cost of accelerating disorder in the external environment.
+
+This observation carries important implications for understanding complex systems: any ordered structure that can persist over time must rely on continuous flows of energy and matter.
+
+2.2.2 Value = Negative Entropy: An Ontological Claim That Requires Defense
+
+With this perspective in mind, we can now return to the economic question.
+
+Consider the following thought experiment: one ton of ordinary sand possesses almost no economic value in most contexts. Yet if that same ton of sand is purified, melted, and processed through highly complex lithographic techniques to produce semiconductor chips, its value may increase by millions of times. What exactly has changed during this process?
+
+From a physical perspective, the mass of the sand has barely changed, and the total quantity of matter remains essentially conserved. What has truly changed is the organization of structure. Within a chip, vast numbers of silicon atoms are arranged according to extremely precise rules, forming microscopic structures capable of performing complex logical operations on nanosecond timescales. It is precisely this highly organized structure that grants the previously ordinary raw material entirely new functions and uses.
+
+Similar phenomena are not uncommon in economic activity. Sunlight falling upon a desert represents a massive input of energy, yet it creates almost no economic value because that energy is not organized into structures capable of performing sustained functions. An engineer sitting in an office designing a microchip consumes very little physical energy, yet may generate enormous economic value, because the engineer embeds highly compressed informational structures into future technological devices. An important institutional arrangement—such as a stable property-rights system or a reliable monetary regime—consumes almost no additional physical energy in a direct sense, yet it can coordinate hundreds of millions of economic actors into a functioning whole; the social structural order it produces likewise contains enormous value.
+
+These observations collectively point to an important fact: value does not correspond simply to the quantity of energy, but rather to the degree to which energy, matter, and information are organized into ordered structures.
+
+From this perspective, what economic activity describes as “value creation” often appears, at a deeper level, as a process through which relatively disordered states are transformed into structures of higher organizational complexity.
+
+In the study of living systems, such processes have long attracted attention. Through continuous metabolic activity, organisms constantly acquire energy and matter from their environment and organize them into ordered forms that sustain their internal structure. In order to describe this process, Schrödinger introduced the concept of negative entropy (negentropy) to denote the capacity of systems to maintain or generate ordered structures through external energy flows.
+
+If this perspective is cautiously introduced into economic analysis, it becomes possible to propose an exploratory proposition: value creation within economic systems can, to a considerable extent, be understood as a process of negative entropy.
+
+In other words, economic activities—through resource allocation, technological application, information organization, and institutional coordination—continuously transform energy and matter from the environment into structures of higher organizational order.
+
+In this sense, the present book proposes the following ontological definition:
+
+Value can be understood as the capacity of the economic system to generate and maintain ordered structures, whose physical analogue may be approximately expressed as negative entropy (negentropy).
+
+More specifically, value manifests as the ordered structures established by the economic organism through its metabolic activities across different levels:
+
+At the material level, it appears as raw materials organized into technologically complex functional devices.
+
+At the informational level, it appears as the accumulation of knowledge structures and technological systems.
+
+At the social level, it appears as the stable order produced by institutional arrangements and cooperative networks.
+
+Within this framework, several core concepts of traditional economics can acquire new interpretations. Labor is not value itself but an important channel through which energy and information are transformed into ordered structures. Utility may be understood as the subjective perception and evaluation by economic actors of the functions provided by these structures. Price, meanwhile, represents a signalized expression of the value of different structures within processes of market exchange.
+
+For this reason, this book does not attempt to negate the important mechanisms revealed by either the labor theory of value or the utility theory of value. Instead, it seeks to reintegrate these theories at a more fundamental explanatory level: labor, utility, and price each describe different aspects of the process through which value is generated, while value itself corresponds more closely to the overall process by which ordered structures within the economic system are continuously generated and maintained.
+
+2.2.3 A Direct Response: Why This Equation Can Be Sustained
+
+To interpret value as negative entropy is an ontological claim, not merely a rhetorical analogy. As such, it inevitably encounters serious philosophical objections.
+
+The Romanian-born economist Nicholas Georgescu-Roegen, in his 1971 work The Entropy Law and the Economic Process, was a pioneering figure in introducing thermodynamic concepts into economic analysis. Yet he himself explicitly opposed the direct identification of thermodynamic negentropy with economic value. His reasoning was rigorous: negentropy in thermodynamics is a quantity that can be measured in physical units, whereas economic value contains irreducible subjective dimensions—such as human needs, cultural meanings, and social relations. These dimensions cannot be straightforwardly reduced to any physical magnitude.
+
+This book takes this reservation seriously. It acknowledges that a genuine conceptual gap indeed exists. Yet this gap does not necessarily invalidate the proposition that “value = negative entropy,” because the sense of “equivalence” invoked here does not refer to identity in measurement units but rather to identity at the level of functional foundations.
+
+A biological analogy may help clarify this point. Biology often defines life as the continuous persistence of metabolic processes. This statement does not imply that the entirety of lived experience—such as consciousness, sensation, or behavior—can be fully exhausted by chemical reaction equations. Nevertheless, this does not prevent biology from understanding life at the functional level as a metabolic process, because without continuous metabolism, life itself cannot exist.
+
+The proposition “value = negative entropy” carries a similar meaning. It does not claim that the entirety of human experiences of value can be exhausted by thermodynamic equations. Rather, it suggests that beneath any process of value creation there exists some physical process through which ordered structures are established. Without such structural generation, value creation itself could not occur.
+
+From this perspective, human subjective needs and social institutions are not alternative explanations of value but rather essential conditions for its realization and transmission. Subjective evaluation determines which structures are regarded as meaningful, while institutional structures determine how these values are stably organized and exchanged within the social system. Yet beneath these complex social dimensions, value creation still depends on a more fundamental process: the generation and maintenance of ordered structures.
+
+For this reason, the present book maintains the proposition “value = negative entropy,” while also specifying its precise meaning: it is an ontological claim about the functional foundation of value creation, rather than a reductionist attempt to exhaust all phenomenological dimensions of value.
+
+2.2.4 Addressing Three Important Counterexamples
+
+Three counterexamples are frequently raised to challenge the proposition that “value = negative entropy.” This book addresses them directly rather than avoiding them.
+
+Counterexample 1: Order Without Demand
+
+A precisely cut diamond possesses extremely high physical order. Yet on a deserted island where no one desires ornaments, its economic value would be zero. Does this not demonstrate that order is not equivalent to value?
+
+Response: This counterexample reveals not that value ≠ negative entropy, but rather the conditional structure of value realization. The existence of value (negentropy) and the realization of value (its integration into the metabolic circulation of an economic system) are two distinct propositions.
+
+The ordered structure of the diamond—its negentropy—still exists at the physical level on the deserted island. What is absent is a point of connection between that structure and the local metabolic system. The situation is analogous to a fuel that stores a large amount of chemical energy but cannot burn in an environment without oxygen; the chemical energy itself has not disappeared.
+
+Value (negentropy) is therefore potential, whereas its realization requires connection with a specific metabolic system. This distinction actually enriches the framework: it suggests that one of the core functions of economic policy is precisely to expand the conditions under which value can be realized, enabling more potential negentropy to enter the metabolic circulation of the economy.
+
+Counterexample 2: Harmful Order
+
+Narcotics possess highly precise molecular structures, and their market prices may be extremely high, yet their social value is negative. If value equals negative entropy, why does high structural order correspond to negative value?
+
+Response: This counterexample reveals the hierarchical nature of negentropy.
+
+The molecular-level order embodied in narcotics is established at the cost of large-scale losses of order at higher systemic levels—such as the neural system, social institutions, and intergenerational health structures. In other words, local negentropy is produced through the destruction of negentropy at a larger systemic level.
+
+In systems terms, this may be described as parasitic entropy reduction: a local decrease in entropy that corresponds to a net increase of entropy at the system level.
+
+Genuine value must represent a net contribution of negentropy at the level of the overall metabolic system, rather than a combination of local negentropy with global entropy increase. This qualification is essential. It also clarifies why institutional value—the mechanisms that maintain order at the system level—occupies a privileged position within the value structure: institutions function as the necessary filter that distinguishes net entropy reduction from parasitic entropy reduction.
+
+Counterexample 3: Meaning-Assigned Order
+
+A painting by Vincent van Gogh and a technically perfect replica may possess almost identical physical structures at the material level. Yet the original may be worth ten thousand times more than the copy. If physical order cannot explain this difference, does this not show that “value = negative entropy” fails in the realm of cultural value?
+
+Response: This counterexample reveals that the scope of order extends beyond the material level.
+
+The negentropy created by an original work of Van Gogh exists not merely in the physical structure of the canvas but also in the unique position it occupies within the network of human cultural memory and meaning. It constitutes a highly dense node of social-cognitive order.
+
+This cultural layer of ordered structure is precisely what the replica lacks. The replica reproduces the physical configuration of the painting but cannot reproduce the original's position within the cultural network of meaning. The enormous value difference between the two therefore aligns exactly with the prediction of the negentropy framework: although their physical-level negentropy may be similar, their cultural-level negentropy differs radically, resulting in a significant difference in overall negentropy when all levels are considered.
+
+Cultural value may thus be understood as a form of negentropy established at the level of cognitive and meaning networks. Its unit of measurement is not joules per kelvin but rather the structural position and irreproducibility within networks of social meaning.
+
+After addressing these three counterexamples, the precise contours of the proposition “value = negative entropy” become clearer.
+
+It is an ontological claim that spans multiple levels—including material structures, information structures, social relations, and cultural meanings. At each level, value corresponds to the net creation of order (negentropy) within that domain.
+
+Subjective experience is therefore not a substitute definition of value but rather the condition under which ordered structures become integrated into the metabolic circulation of the economic system.
+
+2.2.5 Why This Definition Possesses Greater Explanatory Power
+
+If value is understood as the capacity of the economic system to generate and maintain ordered structures, then a series of phenomena that are difficult to explain within traditional value theories can be more naturally interpreted within a unified analytical framework. In other words, changes in value may be understood as processes through which ordered structures are generated, diffused, and dissolved within the economic system.
+
+The Origin of Intangible Value
+
+Why can a brand, a patent, or an algorithm possess substantial economic value? In material terms, they consume almost no additional resources, yet at the informational level they establish highly ordered structures. A mature brand can significantly reduce consumers’ search costs; a stable algorithm can reduce decision-making costs within complex systems; a well-established patent can organize large volumes of production activity along a particular technological trajectory.
+
+These informational structures make economic behavior more predictable and more coordinated, thereby establishing a considerable degree of order within the system. From this perspective, the value of intangible assets derives from the structural order they establish at the informational level—that is, a form of organization capable of reducing entropy growth within the system.
+
+The Diffusion and Depreciation of Value
+
+Many technologies or bodies of knowledge possess extremely high value at the time of their emergence, yet gradually depreciate over time. From the perspective of negentropy, this phenomenon cannot be understood merely as a simple decline in scarcity; rather, it resembles a process through which a structure is gradually absorbed by the system.
+
+When an innovation first appears, it establishes a form of ordered structure within the economic system that previously did not exist. By significantly improving the system's organizational efficiency, it generates high returns in value. However, as imitation, learning, and technological diffusion occur, this structure is gradually replicated by more actors and eventually absorbed by the entire economic system, becoming a widely shared organizational pattern.
+
+At this stage, the overall level of systemic order has indeed increased, but the structural advantage once monopolized by the original innovator has disappeared. The decline in value therefore does not arise because the structure itself has changed, but because what was originally a localized order has been metabolized into the general order of the system.
+
+In this sense, technological depreciation can be understood as a process of structural systematization: the order created by an individual actor is absorbed by the economic organism as a whole and transformed into a broadly distributed organizational capability. This also explains the origin of the first-mover advantage: before the structure has been fully absorbed by the system, the innovator temporarily possesses exclusive control over that ordered structure.
+
+Value Appreciation and Structural Layering
+
+In contrast to depreciation, some assets may continuously appreciate in value over time—for example, brands with long historical accumulation, culturally significant antiques, or platform systems characterized by strong network effects.
+
+In such cases, the economic system does not simply replicate an existing structure; rather, it layers additional informational and symbolic structures upon it. An antique artifact may remain physically unchanged, yet as historical narratives, cultural meanings, and shared perceptions of scarcity accumulate, the “meaning structure” surrounding it within the social system becomes increasingly complex, thereby raising its value.
+
+Similarly, platform systems with strong network effects continuously strengthen their informational structure as more participants join, forming higher-level organizational orders. These processes can therefore be understood as the accumulation and reinforcement of ordered structures at higher systemic levels.
+
+The Evaporation of Value During Crises
+
+Why do financial crises cause large amounts of value to disappear in a short period of time? From the perspective of negentropy, this phenomenon may be interpreted as the rapid dissolution of ordered structures within the economic system.
+
+When trust collapses, information becomes distorted, or coordination mechanisms fail, the credit networks and price-discovery mechanisms that previously sustained stable economic activity can rapidly disintegrate. The resulting destruction of systemic order may be understood as a process of rapid entropy increase.
+
+Value does not vanish from nothing; rather, it dissipates as ordered structures collapse. Hyman Minsky's description of financial instability may be interpreted within this framework as a cyclical process of accumulation and breakdown of credit structures: the rupture of debt chains represents the fragmentation of credit network structures, while panic selling represents a collective failure of informational coordination mechanisms.
+
+The Direction of Civilizational Progress
+
+Over longer historical timescales, the development of human civilization can likewise be understood as a continuous process of structural organization. From primitive gathering societies to agricultural civilizations, and from industrial civilization to the digital age, human societies have continuously transformed raw materials and energy into increasingly complex technological, institutional, and informational structures.
+
+As technological capabilities expand, human societies become able to establish more complex systemic orders using relatively fewer resources. The long-term trajectory of economic development therefore largely reflects a continuous increase in metabolic efficiency—that is, the ability to construct increasingly complex layers of ordered structure on the basis of limited flows of energy and matter.
+
+The Source of the Innovation Premium
+
+The fact that innovation can generate returns far exceeding the labor invested in it can also be explained within this framework. As Joseph Schumpeter emphasized, innovation often involves the emergence of “new combinations,” meaning the reorganization of existing production and exchange structures.
+
+When a new technology or platform structure appears, it may reorganize large volumes of economic activity while consuming relatively little physical energy. In doing so, it establishes a new coordination order. The value created by innovation therefore does not primarily derive from the quantity of labor consumed but from the scope of the structural order it establishes within the system and the extent to which it improves the system's overall organizational efficiency.
+
+Across these phenomena, a common mechanism can be observed: changes in value fundamentally correspond to processes of generation, diffusion, and dissolution of ordered structures within the economic system.
+
+When new structures are established, the system gains new negentropy and value increases. When these structures are widely replicated and become systemic norms, their scarcity diminishes and value declines. When structures suddenly collapse, systemic order disintegrates and value rapidly dissipates.
+
+For this reason, interpreting value as negative entropy not only provides a unified ontological explanation but also enables the processes of value creation, diffusion, appreciation, depreciation, and crisis-driven dissipation to be explained within a single theoretical framework.
+
+2.3 The Process of Value Creation: The Transformation Chain from Raw Materials to Negative Entropy
+
+Having clarified the physical nature of value, we must now address the next question: how is such order actually created?
+
+2.3.1 The Economic Metabolism Equation
+
+This book proposes a fundamental equation describing the creation of value:
+
+Vt = f(Et, It, Ct) .
+
+where:
+
+- Vt: the total value created by the economic system in period T (that is, the net production of negative entropy)
+
+- Et: material–energy inputs (natural resources, physical labor, and the material consumption of capital goods)
+
+- It: informational inputs (knowledge stocks, technological levels, algorithmic complexity, and the quality of institutional design)
+
+- Ct: circulation efficiency (levels of institutional trust, the degree of market structure completeness, and the capacity for cross-sectoral factor mobility)
+
+The functional form of this equation is deliberately left open. It does not specify a precise functional relationship among these three variables, because such relationships may change fundamentally across different historical periods and economic structures. What the equation seeks to express are the three indispensable sources of value creation and the evolving relationships among them over time.
+
+At this point, a methodological issue must be addressed directly. The dimensions of Et, It, and Ct are not commensurable; without further specification they cannot be placed within a single mathematical function and used for numerical calculation. This is a constraint intentionally accepted in this book rather than an accidental omission.
+
+The reason is that specifying a fixed functional form—such as a Cobb–Douglas-type expression like Etα·Itβ·Ctγ —would introduce a false precision and implicitly assume constant substitution elasticities among these inputs across all historical stages. Such an assumption contradicts this book's central proposition regarding historical evolution.
+
+The function of this equation is therefore structural rather than computational: it reveals the independent dimensions of value creation and provides a framework for comparative historical analysis, rather than serving as a directly operational econometric tool.
+
+Traditional economic production functions (Y=f(K,L)) focus only on the combination of physical capital and labor, corresponding primarily to the Et​ component. Neoclassical growth theory attempted to capture the influence of It through the introduction of total factor productivity (TFP), yet treated it as an exogenous residual lacking endogenous explanation. In his famous 1957 growth accounting study, Robert Solow found that more than 80 percent of U.S. economic growth could not be explained by capital and labor inputs. This well-known “Solow residual,” in the framework of this book, represents precisely the measurable manifestation of the contribution of informational inputs It to value creation.
+
+The third dimension—circulation efficiency Ct —is largely absent from mainstream frameworks.
+
+Circulation efficiency Ct constitutes one of the most important original contributions of this theory. It describes the possibility that even when material inputs are abundant (Et high) and technological levels are advanced (It high), the metabolic processes of the economic system may still become severely disordered due to institutional failure, the collapse of trust, or blocked factor mobility.
+
+Three types of phenomena illustrate the independent explanatory power of Ct.
+
+First, the liquidity trap. After the 2008 crisis, the Federal Reserve injected massive liquidity into the financial system, significantly increasing Et, yet the recovery of the real economy remained slow. The balance sheet recession theory proposed by Richard Koo provides a closely related explanation. Within the framework of this book, this represents a typical case in which the collapse of Ct—the breakdown of trust mechanisms preventing money from being effectively converted into ordered economic output—offsets the effects of increased Et.
+
+Second, the technology–efficiency paradox of the Soviet Union. During certain periods, the Soviet Union accumulated considerable technological capability (It not low) and maintained substantial material inputs (Et abundant). However, under the extremely inefficient resource allocation mechanisms of the planned economy, the efficiency with which these inputs were transformed into actual negative entropy output remained very low. This represents an extreme case of systemic deficiency in Ct.
+
+Third, the phenomenon of stagflation. Constraints on Et supply combined with failures in coordination mechanisms associated with Ct often operate simultaneously, greatly reducing the effectiveness of standard macroeconomic policy interventions.
+
+The literature on social capital within institutional economics—such as Robert Putnam's research on regional governments in Italy and Francis Fukuyama's analysis of the relationship between trust and economic performance—may be interpreted as empirical explorations of the Ct dimension.
+
+The difference between those studies and the present framework lies in theoretical positioning: while they treat social capital as an institutional determinant of economic performance, this book treats circulation efficiency as an independent physical dimension of value creation. Although the theoretical interpretations differ, the empirical observations mutually reinforce one another.
+
+2.3.2 Historical Evolution of the Three Value Inputs
+
+The relative importance of these three value inputs has undergone profound structural transformations throughout economic history.
+
+In the pre-industrial era, Et played an overwhelmingly dominant role. Value creation depended heavily on the possession of natural resources and the input of physical labor. Land and population constituted the fundamental units of wealth. The theories of David Ricardo on comparative advantage and Thomas Robert Malthus on population dynamics both emerged within a value-creation structure dominated by Et. This explains why these theories possessed strong explanatory power in that historical context.
+
+The Industrial Revolution essentially represented a geometric amplification of Et. The introduction of fossil energy allowed human societies to mobilize levels of material energy far exceeding the limits of physical labor. This was a leap in metabolic capacity, comparable to the evolutionary transition in biological life from anaerobic to aerobic metabolism, where energy conversion efficiency increased by orders of magnitude.
+
+The explanatory power of the labor theory of value during this period derived from the strong correlation between Et and labor inputs: under conditions of limited mechanization, labor time indeed functioned as the primary proxy for material–energy input.
+
+From the second half of the twentieth century onward, the importance of It rose sharply. Knowledge, technology, and algorithms gradually became the central driving forces of value creation. The same level of material input could produce vastly different outputs depending on the informational structures guiding it. The continuous expansion of the Solow residual represents macroeconomic evidence that It has increasingly replaced Et as the primary driver of value creation.
+
+The digital economy revolution currently underway represents a comprehensive substitution of It for Et. The core value of artificial intelligence, cloud computing, and digital platforms derives almost entirely from the density and quality of informational structures rather than from the scale of material–energy consumption.
+
+This marks the first time in human history that such a systematic process of metabolic lightening has occurred: increasingly large amounts of negative-entropy value are created with progressively smaller increases in material entropy.
+
+The concept of metabolic decoupling advocated by Herman Daly receives a more fundamental interpretation within the framework of this book. True metabolic decoupling is not merely an improvement in energy efficiency but a structural substitution of informational inputs It for material–energy inputs Et.
+
+2.3.3 Information Injection: The Critical Link in Value Creation
+
+Among the three categories of inputs, the injection of information is the most crucial—and also the most frequently underestimated—stage in the process of value creation.
+
+The thought experiment known as Maxwell's demon, proposed by James Clerk Maxwell, provides an elegant framework for understanding the relationship between information and order. In the experiment, a hypothetical “demon” capable of precisely identifying the velocities of gas molecules could sort them into ordered states without directly consuming mechanical energy, thereby locally reducing entropy. Subsequent analyses showed that the demon could accomplish this only because it continuously acquired and processed information about the molecular states. Information processing itself requires energy consumption, and this is the true physical cost of entropy reduction.
+
+Firms play precisely this role within the economic system. By acquiring, processing, and utilizing market information, they rearrange originally disordered raw materials, labor, and capital into ordered structures, thereby creating higher levels of negative entropy than those factors would possess in isolation. Technical know-how, managerial systems, and brand assets are all forms of informational assets that firms employ to reduce entropy in the production process. Their value lies not in material consumption but in their capacity to guide the combination of factors and reduce uncertainty in production.
+
+This perspective helps explain why firms producing the same product—for example, a smartphone—can differ in profitability by several times or even by an order of magnitude. The source of this difference lies not in the quantity of material inputs but in the quality of information injection.
+
+For instance, Apple Inc. integrates chip design, operating system development, retail experience, and brand narrative into a highly coordinated structural system. In informational terms, this represents a very high-density entropy-reduction process. This informational ordering constitutes the physical foundation of the company's excess profits.
+
+2.4 A Typology of Five Forms of Value: A Negative-Entropy-Based Classification Framework
+
+Defining value as negative entropy also provides a systematic framework for classifying different forms of value. This classification is based on a unified criterion: at which level is negative entropy established?
+
+Each category of value corresponds to an independent functional dimension within metabolic analysis. Removing any one of these categories would leave analytical blind spots that cannot be fully covered by the others.
+
+Material Value
+
+Material value refers to negative entropy established at the physical level. The use value of physical goods ultimately derives from the ordered arrangement of their material components. The value of a chair, for instance, comes not from the wood itself but from the way the wood has been cut and assembled into a specific structure.
+
+This represents the most intuitive form of negative entropy. In biological terms, it corresponds to physiological structures—such as bones, muscles, and organs—which serve as the material carriers of an organism's functions.
+
+Informational Value
+
+Informational value refers to negative entropy established at the informational level. Data, algorithms, patents, and knowledge systems are fundamentally processes of organizing and refining information—compressing vast quantities of raw signals into ordered patterns that can be utilized.
+
+The distinctive feature of informational value lies in its near-zero marginal replication cost. Once established, informational structures can be reproduced indefinitely without consuming proportional material energy.
+
+This represents the most fundamental metabolic structural difference between the digital economy and the industrial economy. In the digital economy, the creation of negative entropy primarily occurs through information processing rather than material transformation. The value of artificial intelligence lies precisely in this capacity: it performs ordering operations at the informational level that previously could only be accomplished by biological nervous systems.
+
+Meaning Value
+
+Meaning value refers to negative entropy established at the level of human cognition and cultural networks. Brands, artworks, rituals, and narratives can create stable structures of meaning within both individual subjective experience and shared social cognition. These structures reduce uncertainty and provide common reference points for coordinated behavior.
+
+The reason an original painting by Vincent van Gogh commands far greater value than a replica lies precisely in its irreplaceable position within the network of cultural memory. This represents a high-density form of negative entropy established within the domain of social cognition—something that cannot be reproduced through material duplication alone.
+
+In an information economy characterized by scarcity of attention, the importance of meaning value has risen sharply, becoming an increasingly significant source of excess profits.
+
+Institutional Value
+
+Institutional value refers to negative entropy established at the level of social coordination mechanisms. Effective institutions—such as property-rights protection, monetary systems, legal order, and credit mechanisms—serve the fundamental function of reducing the coordination costs of large-scale social cooperation. In other words, they reduce what might be termed social entropy in the organization process.
+
+Institutional value constitutes the prerequisite for the creation and circulation of all other forms of value. Without stable property-rights institutions, the accumulation of material value lacks security. Without monetary and credit systems, informational value lacks a medium of exchange through which it can circulate in markets.
+
+Within the metabolic framework, institutional value corresponds to the nervous and immune systems of an organism: it does not directly produce material output but is indispensable for the coordinated functioning of all organs.
+
+This also explains why institutional collapse—such as the breakdown of a monetary system or the failure of legal order—can lead to the rapid evaporation of all other forms of value.
+
+Ecological Value
+
+Ecological value refers to the stock of negative entropy within natural ecosystems that provides continuous inputs for economic metabolism and absorbs its outputs. Soil fertility, water-cycle stability, biodiversity, and the regulatory capacity of climate systems are all forms of ordered structure that can be measured in physical terms. They constitute irreplaceable material preconditions for economic metabolic processes.
+
+Ecological value has long been neglected in economics because traditional frameworks implicitly treat it as a free external condition. Within the negative-entropy framework, however, it represents the natural foundation of all economic value creation. Its depletion implies an irreversible loss of the metabolic basis of the economy.
+
+In the metabolic analogy, ecological value corresponds to the external ecological niche upon which an organism depends. Its sustainability is the prerequisite for the long-term survival of the organism rather than a reserve that can be freely depleted.
+
+These five forms of value together form a functionally interdependent hierarchical structure. Ecological value provides the natural foundation for material metabolism, while institutional value provides the institutional foundation for social coordination. Material value, informational value, and meaning value are created and circulated on the basis of these two foundational layers.
+
+This hierarchy does not represent a ranking of value importance but rather a description of metabolic dependency relationships. Degradation at the lower levels will propagate upward and amplify crises at higher levels, whereas prosperity at higher levels cannot conceal the erosion occurring at the foundational levels.
+
+The health of an economic system therefore depends on whether negative entropy is being continuously generated across all five levels, rather than on the expansion of only one or two dimensions.
+
+2.5 Reconstructing the Law of Value: From Static Equilibrium to Dynamic Metabolic Homeostasis
+
+Having clarified the definition and classification of value, we can now revisit the traditional proposition known as the law of value.
+
+The classical formulation of the law of value holds that the value of a commodity is determined by the socially necessary labor time required for its production. Prices fluctuate around value and, through market competition, tend toward equilibrium. Within the mechanistic paradigm, this description resembles a gravitational center model: prices behave like a pendulum that is always pulled back toward a stable reference point.
+
+Within the life-system paradigm, however, this description requires systematic revision along three dimensions.
+
+The Basis of Value: From Labor Time to the Level of Negative Entropy
+
+The value of a commodity is determined jointly by the quantity of negative entropy embodied in it and its functional position within the metabolic circulation of the economic system—that is, by the degree to which it contributes to maintaining the ordered functioning of the economic organism.
+
+Labor time represents only one dimension of input in the creation of negative entropy rather than the measure of value itself. This revision naturally explains the phenomenon in which equal labor time generates unequal value: the difference lies not in the amount of time invested but in the quality and density of the negative entropy created through that investment.
+
+The Function of Price: From a Gravitational Center to a Metabolic Signal
+
+The fundamental function of price is to transmit information about scarcity and order within decentralized markets, thereby guiding resources toward activities that create negative entropy more efficiently.
+
+The analysis by Friedrich Hayek regarding prices as carriers of dispersed knowledge resonates strongly with this interpretation. Prices are effective precisely because they transmit dispersed information in real time—information that cannot be centrally aggregated or processed. Within the negative-entropy framework, this function constitutes the physical foundation of prices as metabolic signals.
+
+Prices therefore do not converge toward a fixed equilibrium point. Instead, they continuously adjust in response to changes in the overall metabolic state of the economic system. They function as dynamic metabolic signals rather than static anchors.
+
+The Nature of Equilibrium: From Static Balance to Homeostasis
+
+Economic systems do not approach an “optimal equilibrium” and then cease to change. Rather, they maintain a form of dynamic homeostasis through continuous metabolic activity: key variables remain within survivable ranges while the system itself remains in constant energy exchange with its environment.
+
+Such homeostasis must be actively maintained. Once the mechanisms that sustain it fail, the system enters pathological states.
+
+
+The intrinsic instability of financial systems described by Hyman Minsky can be given a more fundamental physical interpretation within the negative-entropy framework. Risks accumulated during stable periods—analogous to metabolic waste—eventually exceed the thresholds compatible with systemic stability. The resulting crisis represents a form of forced systemic excretion, in which accumulated disorder is abruptly released through systemic restructuring. This interpretation provides the theoretical foundation for the later chapters of this book that analyze crisis mechanisms.
+
+Reformulating the Law of Value
+
+Taken together, the law of value can be reformulated within the negative-entropy framework as follows:
+
+The total amount of value (negative entropy) in an economic system is jointly determined by material–energy inputs (Et), the quality of informational injection (It), and the efficiency of circulation coordination (Ct). Prices function as real-time market metabolic signals reflecting this negative-entropy state, guiding resources toward activities that create negative entropy more efficiently. While the economic system continuously consumes energy and generates entropy, it simultaneously maintains localized ordered homeostasis through ongoing metabolic processes. This homeostasis possesses metabolic thresholds; once the accumulation of systemic “waste” surpasses these thresholds, crises emerge in the form of systemic reorganization.
+
+2.6 Inheritance and Transcendence of the Theory
+
+Before concluding this chapter, it is necessary to clarify the relationship between the present theory and existing theoretical traditions.
+
+Inheritance
+
+This book's theory of value stands on the shoulders of several intellectual traditions.
+
+Erwin Schrödinger provided the physical framework for understanding life through the concept of negative entropy.
+
+Nicholas Georgescu-Roegen introduced the second law of thermodynamics into economic analysis, establishing the foundation for incorporating material metabolic constraints into economics—although he himself rejected the direct equivalence between value and negative entropy. Section 2.2.3 of this book addressed his reservations directly and explained the philosophical reasons for extending the argument beyond that point.
+
+Herman Daly's ecological economics established ecological carrying capacity as a material precondition for economic analysis.
+
+Joseph Schumpeter's theory of innovation identified structural recombination as the central mechanism of value creation.
+
+Friedrich Hayek's epistemology revealed the function of prices as carriers of dispersed knowledge.
+
+Transcendence
+
+The phenomenon identified by the labor theory of value—that labor is the core human activity through which ordered structures are created—remains valid within the negative-entropy framework. However, the theoretical status of labor is revised from the sole source of value to the primary energy channel through which negative entropy is created at the material level.
+
+This is not a compatibility adjustment to the labor theory of value but a fundamental replacement. The causal structure of value creation differs fundamentally between the two frameworks: labor time is no longer the measure of value; the creation of negative entropy is.
+
+Similarly, the phenomenon identified by utility theory—that subjective demand plays a crucial role in value realization—is preserved. However, subjective utility is interpreted as the condition through which negative entropy enters the metabolic circulation, rather than as the physical basis of value itself.
+
+The theoretical inclusiveness of this framework is not the result of eclectic compromise. Rather, it arises from the explanatory power of the negative-entropy principle itself. A sufficiently fundamental physical principle can unify observations that appear mutually opposed at the surface level, while simultaneously defining more precise boundaries for the historical applicability of each theoretical tradition.
+
+This chapter has established the value-theoretical foundation of the economic organism–metabolic theory. Value is negative entropy: it is both the process and the outcome through which the economic organism resists chaos and establishes order at the levels of material structure, information structure, and social organization.
+
+This definition will serve as the analytical cornerstone of the entire book.
+In the next chapter, we turn to the anatomical dimension of this theory. What is the structural composition of the economic organism? What metabolic roles are played by firms, industries, institutions, and money within this living system? Only by understanding structure can we truly understand its operation—that is, its metabolism.
